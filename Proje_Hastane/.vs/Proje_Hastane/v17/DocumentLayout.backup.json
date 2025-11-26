@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murad\\OneDrive\\Masa\u00FCst\u00FC\\Full_Stack\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F098901-C123-44F4-ACCA-AA1369622A8D}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\murad\\onedrive\\masa\u00FCst\u00FC\\full_stack\\proje_hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F098901-C123-44F4-ACCA-AA1369622A8D}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F098901-C123-44F4-ACCA-AA1369622A8D}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\murad\\onedrive\\masa\u00FCst\u00FC\\full_stack\\proje_hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F098901-C123-44F4-ACCA-AA1369622A8D}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Masa\u00FCst\u00FC\\Full_Stack\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Masa\u00FCst\u00FC\\Full_Stack\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwEIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:53:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDoktorDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Masa\u00FCst\u00FC\\Full_Stack\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Masa\u00FCst\u00FC\\Full_Stack\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:53:39.33Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
